@@ -1,0 +1,8 @@
+[package]
+name = "Sprunki-Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = { version = "0.4.13", features = ["audio"] }
+tokio = "1.42.0"
